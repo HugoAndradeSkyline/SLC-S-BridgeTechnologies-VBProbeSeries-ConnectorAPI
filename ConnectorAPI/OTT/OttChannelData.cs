@@ -61,6 +61,8 @@
 
 		public string ContentType { get; set; }
 
+		public string ContentSchedule { get; set; }
+
 		// ?
 		public int? RoundTime { get; set; }
 	}
